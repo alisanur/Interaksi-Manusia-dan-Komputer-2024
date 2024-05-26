@@ -4,7 +4,9 @@ FAKULTAS TEKNIK UNIVERSITAS MULAWARMAN
 SEMESTER GENAP T.A. 2023/2024
 
 Showcase di Dribble / Behance
+
 Instruksi Umum
+
 Pada ujian akhir semester ini, Anda diminta untuk membuat sebuah showcase IMK menggunakan
 Dribbble atau Behance berdasarkan prototype aplikasi web yang telah Anda buat sebelumnya dengan
 Figma. Hasil akhir yang harus dikumpulkan adalah tautan ke showcase di Dribbble atau Behance dan
